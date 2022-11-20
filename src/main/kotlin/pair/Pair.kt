@@ -1,11 +1,11 @@
 package pair
 
-fun main(){
+fun main() {
     pair()
 }
 
 fun pair() {
-    val pair = Pair(TAG,"Wafiq")
+    val pair = Pair(TAG, "Wafiq")
 
     println(pair.first)
     println(pair.second)
@@ -21,4 +21,5 @@ fun pair() {
     println(pair3.second)
 
 }
+
 const val TAG = "uwehaiofhapi"
