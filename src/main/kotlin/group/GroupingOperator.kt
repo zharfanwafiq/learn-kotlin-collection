@@ -1,4 +1,4 @@
-package operators
+package group
 
 fun main() {
     groupingOperator()
